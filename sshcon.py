@@ -9,10 +9,10 @@ import requests
 
 # Update these with your server's information
 host = "192.168.10.1"
-username = "admin"
-password = "StageCFNS2022!"
+username = "Peplink username"
+password = "Peplink wachtwoord"
 port = 8822
-api_key = "pk.f6e2aa2d0a8c4e9f9a2ffc1fe6904c74"  # Replace with your actual API key
+api_key = "Peplink API key"
 
 def get_data(command):
     output = ""
